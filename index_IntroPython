@@ -1,0 +1,134 @@
+Introduct to Python
+
+Overview
+This 3-day course introduces the student to the Python language. Upon completion of this class, the student will be able to write non trivial Python programs dealing with a wide variety of subject matter domains. Topics include language components, working with a professional IDE, control flow constructs, strings, I/O, collections, classes, modules, and regular expressions. The course is supplemented with many hands-on labs, solutions, and code examples.
+
+Audience
+Anyone who needs to learn how to write programs in Python or wants solid exposure to Python as their first programming language.
+
+Prerequisites
+Optimally, students will have experience with at least one programming or scripting language e.g., C, C++, Java, etc. This being said, students with a technical inclination with experience developing projects like spreadsheets, SPSS scripts, Bash scripts, or macros are welcome to join. Python is a great first language--it is very approachable and easy to learn.
+
+Number of Days
+3 days
+
+Course Outline
+
+1. An Introduction to Python
+A Brief History of Python
+Python Versions
+Installing Python
+Environment Variables
+Executing Python from the Command Line
+IDLE
+Editing Python Files
+Python Documentation
+Getting Help
+Dynamic Types
+Python Reserved Words
+Naming Conventions
+
+2. Basic Python Syntax
+Basic Syntax
+Comments
+String Values
+String Methods
+The format Method
+String Operators
+Numeric Data Types
+Conversion Functions
+Simple Input and Output
+The % Method
+The print Function
+
+3. Language Components
+Indenting Requirements
+The if Statement
+Relational Operators
+Logical Operators
+Bit Wise Operators
+The while Loop
+break and continue
+The for Loop
+
+4. Collections
+Lists
+Tuples
+Sets
+Dictionaries
+Sorting Dictionaries
+Copying Collections
+
+5. Functions
+Defining Your Own Functions
+Parameters
+Function Documentation
+Keyword and Optional Parameters
+Passing Collections to a Function
+Variable Number of Arguments
+Scope
+Functions - "First Class Citizens"
+Passing Functions to a Function
+Mapping Functions in a Dictionary
+Lambda
+Inner Functions
+Closures
+
+6. Modules
+Modules
+Standard Modules - sys
+Standard Modules - math
+Standard Modules - time
+The dir Function
+
+7. Exceptions
+Errors
+Run Time Errors
+The Exception Model
+Exception Hierarchy
+Handling Multiple Exceptions
+raise
+assert
+Writing Your Own Exception Classes
+
+8. Input and Output
+Data Streams
+Creating Your Own Data Streams
+Access Modes
+Writing Data to a File
+Reading Data From a File
+Additional File Methods
+Using Pipes as Data Streams
+Handling IO Exceptions
+Working with Directories
+Metadata
+The pickle Module
+
+9. Classes in Python
+Classes in Python
+Principles of Object Orientation
+Creating Classes
+Instance Methods
+File Organization
+Special Methods
+Class Variables
+Inheritance
+Polymorphism
+Type Identification
+Custom Exception Classes
+
+10. Regular Expressions
+Simple Character Matches
+Special Characters
+Character Classes
+Quantifiers
+The Dot Character
+Greedy Matches
+Grouping
+Matching at Beginning or End
+Match Objects
+Substituting
+Splitting a String
+Compiling Regular Expressions
+Flags
+
